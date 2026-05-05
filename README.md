@@ -4,3 +4,5 @@ Mathematically projects a provided image onto the inside of a spherical dome by 
 Two long-term features will be planned: 
 1. Projecting any image onto the inside of a spherical dome with inputted dimensions
 2. Animating a series of images to replicate night sky movement
+
+Implementation inspired by [this resource at WWU](https://facultyweb.cs.wwu.edu/~wehrwes/courses/csci497p_20s/lectures/spherical_warping.pdf). 
